@@ -1,0 +1,3 @@
+- rails
+- team work , write data into
+- confidence photos
