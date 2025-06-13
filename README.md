@@ -1,3 +1,4 @@
 - rails
 - team work , write data into
 - confidence photos
+- street art, music video musical instrument
